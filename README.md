@@ -9,6 +9,7 @@ point of interest(POI)についてはググった方がわかりやすい。
 ## solution
 チームで参加。チームメイトがdiscussionとcodeに上げてくれたもの。
 - [Discussion](https://www.kaggle.com/competitions/foursquare-location-matching/discussion/335800)
+- [技術ブログ(チームメイトのnadareさんが執筆)](https://future-architect.github.io/articles/20220720a/)
 - [Code](https://www.kaggle.com/code/nadare/7th-place-solution-inference)
 GitHubにもtrain codeを上げておく。
 
